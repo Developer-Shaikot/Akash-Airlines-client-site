@@ -1,0 +1,12 @@
+.back{
+    height: 100%;
+    position: relative;
+    background-image: linear-gradient(
+          
+        rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)
+      ),  url(../../images/airplane.jpg);
+    background-size: cover;
+    min-height: 110vh;
+    background-color: rgba(72, 79, 92, 0.836);
+    font-family: 'Merriweather', serif;
+}
